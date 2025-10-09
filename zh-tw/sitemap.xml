@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://smp.allwinfood.com/zh-tw/product-categories/whey-protein-powder/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://smp.allwinfood.com/zh-tw/about-categories/csr/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
